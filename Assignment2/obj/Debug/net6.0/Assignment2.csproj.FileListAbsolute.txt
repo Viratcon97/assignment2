@@ -1,0 +1,15 @@
+F:\_Conestoga Fall 2022\Level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\bin\Debug\net6.0\Assignment2.exe
+F:\_Conestoga Fall 2022\Level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\bin\Debug\net6.0\Assignment2.deps.json
+F:\_Conestoga Fall 2022\Level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\bin\Debug\net6.0\Assignment2.runtimeconfig.json
+F:\_Conestoga Fall 2022\Level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\bin\Debug\net6.0\Assignment2.dll
+F:\_Conestoga Fall 2022\Level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\bin\Debug\net6.0\Assignment2.pdb
+F:\_Conestoga Fall 2022\Level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.csproj.AssemblyReference.cache
+F:\_Conestoga Fall 2022\Level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Conestoga Fall 2022\Level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.AssemblyInfoInputs.cache
+F:\_Conestoga Fall 2022\Level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.AssemblyInfo.cs
+F:\_Conestoga Fall 2022\Level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.csproj.CoreCompileInputs.cache
+F:\_Conestoga Fall 2022\Level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.dll
+F:\_Conestoga Fall 2022\Level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\refint\Assignment2.dll
+F:\_Conestoga Fall 2022\Level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.pdb
+F:\_Conestoga Fall 2022\Level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.genruntimeconfig.cache
+F:\_Conestoga Fall 2022\Level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\ref\Assignment2.dll
