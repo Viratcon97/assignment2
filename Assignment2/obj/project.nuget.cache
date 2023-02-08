@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "mv/ThC2rOXgDVgFTYpT5SAL73U9joXrt6+8F5HVFtXkfeXF+vg19zqKrjvkXyvPJxo/RCfZMRaw9XzTubbldcw==",
+  "dgSpecHash": "FTD82TNNuod+6ce99LuIQmi9lBCzhbWBntJSVRDnqZkL66vfof7eoxIqt7Lh7Yr7jYpU0cbWucyYpJXgqSruDw==",
   "success": true,
-  "projectFilePath": "F:\\_Conestoga Fall 2022\\Level_2\\_Software Quality Assurance\\Assignment2\\Code\\Assignment2\\Assignment2\\Assignment2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "F:\\_conestoga_fall_2022\\level_2\\_Software Quality Assurance\\Assignment2\\Code\\Assignment2\\Assignment2\\Assignment2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Virat Contractor\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Virat Contractor\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Virat Contractor\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\Virat Contractor\\.nuget\\packages\\nunit.console\\3.16.2\\nunit.console.3.16.2.nupkg.sha512",
+    "C:\\Users\\Virat Contractor\\.nuget\\packages\\nunit.consolerunner\\3.16.2\\nunit.consolerunner.3.16.2.nupkg.sha512",
+    "C:\\Users\\Virat Contractor\\.nuget\\packages\\nunit.extension.nunitprojectloader\\3.6.0\\nunit.extension.nunitprojectloader.3.6.0.nupkg.sha512",
+    "C:\\Users\\Virat Contractor\\.nuget\\packages\\nunit.extension.nunitv2driver\\3.8.0\\nunit.extension.nunitv2driver.3.8.0.nupkg.sha512",
+    "C:\\Users\\Virat Contractor\\.nuget\\packages\\nunit.extension.nunitv2resultwriter\\3.6.0\\nunit.extension.nunitv2resultwriter.3.6.0.nupkg.sha512",
+    "C:\\Users\\Virat Contractor\\.nuget\\packages\\nunit.extension.teamcityeventlistener\\1.0.7\\nunit.extension.teamcityeventlistener.1.0.7.nupkg.sha512",
+    "C:\\Users\\Virat Contractor\\.nuget\\packages\\nunit.extension.vsprojectloader\\3.8.0\\nunit.extension.vsprojectloader.3.8.0.nupkg.sha512",
+    "C:\\Users\\Virat Contractor\\.nuget\\packages\\nunit3testadapter\\4.3.1\\nunit3testadapter.4.3.1.nupkg.sha512"
+  ],
   "logs": []
 }

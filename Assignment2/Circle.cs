@@ -1,17 +1,15 @@
-﻿using System;
-
-public class Circle
+﻿public class Circle
 {
-    public int radius { get; set; }
+    private int radius { get; set; }
 
     public Circle(int radius)
     {
-        radius = 1;
+        this.radius = radius;
     }
-	
+
     public Circle()
     {
-       radius= 1;
+        radius = 1;
     }
 
     public int GetRadius()
@@ -21,6 +19,7 @@ public class Circle
 
     public void SetRadius(int radius)
     {
+        
         this.radius = radius;
     }
 

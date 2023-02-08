@@ -13,3 +13,26 @@ F:\_Conestoga Fall 2022\Level_2\_Software Quality Assurance\Assignment2\Code\Ass
 F:\_Conestoga Fall 2022\Level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.pdb
 F:\_Conestoga Fall 2022\Level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.genruntimeconfig.cache
 F:\_Conestoga Fall 2022\Level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\ref\Assignment2.dll
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\bin\Debug\net6.0\NUnit3.TestAdapter.dll
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\bin\Debug\net6.0\NUnit3.TestAdapter.pdb
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\bin\Debug\net6.0\nunit.engine.dll
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\bin\Debug\net6.0\nunit.engine.api.dll
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\bin\Debug\net6.0\nunit.engine.core.dll
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\bin\Debug\net6.0\testcentric.engine.metadata.dll
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\bin\Debug\net6.0\Assignment2.exe
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\bin\Debug\net6.0\Assignment2.deps.json
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\bin\Debug\net6.0\Assignment2.runtimeconfig.json
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\bin\Debug\net6.0\Assignment2.dll
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\bin\Debug\net6.0\Assignment2.pdb
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\bin\Debug\net6.0\nunit.framework.dll
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.csproj.AssemblyReference.cache
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.AssemblyInfoInputs.cache
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.AssemblyInfo.cs
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.csproj.CoreCompileInputs.cache
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.csproj.CopyComplete
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.dll
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\refint\Assignment2.dll
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.pdb
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\Assignment2.genruntimeconfig.cache
+F:\_conestoga_fall_2022\level_2\_Software Quality Assurance\Assignment2\Code\Assignment2\Assignment2\obj\Debug\net6.0\ref\Assignment2.dll
